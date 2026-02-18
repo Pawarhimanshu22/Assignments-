@@ -1,3 +1,5 @@
+package MultiThreading;
+
 public class MultiThreadingDemo implements Runnable{
     private int number;
     public MultiThreadingDemo() {
